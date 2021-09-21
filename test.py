@@ -1,1 +1,1 @@
-print ("This is test code for python ( New Change )  V6.0" )
+print ("This is test code for python ( New Change ) V1.x.1" )
