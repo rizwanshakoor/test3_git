@@ -1,1 +1,1 @@
-print ("This is test code for python For Patched Changes" )
+print ("This is test code for python For Merge Changes" )
